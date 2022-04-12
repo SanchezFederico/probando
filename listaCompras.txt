@@ -2,3 +2,8 @@ huevo
 harina
 aceite
 vinagre
+cebolla
+tomate
+lechuga
+pan
+leche
